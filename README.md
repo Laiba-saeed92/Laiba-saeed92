@@ -2,9 +2,9 @@
 <h3 align="center">Computer Systems Engineer from Islamabad Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"
 
-- 🔭 I’m currently working on **Deep learning projects**
+- 🔭 I’m currently working on **Generative AI , AI Automation , AI Agents**
 
-- 🌱 I’m currently learning **Deep learning and its frameworks**
+- 🌱 I’m currently learning **RAG and the frameworks like Llama index, langchain, langGraph**
 
 - 📫 How to reach me **laibasaeed308@gmail.com**
 
